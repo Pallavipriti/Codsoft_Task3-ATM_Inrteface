@@ -1,1 +1,1 @@
-# Codsoft_Task3-ATM_Inrteface
+# Codsoft_Task3-ATM_Interface
